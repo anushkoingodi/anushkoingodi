@@ -25,7 +25,7 @@ I enjoy exploring new technologies, developing projects, solving problems, and c
 [![](https://komarev.com/ghpvc/?username=anushkoingodi&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Anushkoingodi) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/Anush_koingodi) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
